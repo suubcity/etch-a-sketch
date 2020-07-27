@@ -44,3 +44,4 @@ function clearGrid() {
 function getGridSize() {
   return prompt("Enter new grid size", "16");
 }
+NB
